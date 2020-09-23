@@ -17,7 +17,8 @@ It also focuses on marketing based on the buying habits of a company's potential
  
 
 ## Installation
-1. Access the GitHub repository called Horiseon using the following link: https://denisequarles1.github.io/Horiseon/
+1. Access the GitHub repository called Horiseon using the following link: https://github.com/denisequarles1/Horiseon
+
 
 2. Clone the repo by copying the key.
 
